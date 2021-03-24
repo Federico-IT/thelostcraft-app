@@ -5,6 +5,6 @@
 ## costantino03: idea e codice
 ## INFERNALIZARD: grafiche
 ---
-titolo:test
+titolo: test
 ![parte1](img/parte1.png)
 ---
