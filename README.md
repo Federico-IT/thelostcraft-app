@@ -4,7 +4,10 @@
 # Contributori:
 ## costantino03: idea e codice
 ## INFERNALIZARD: grafiche
+
 ---
-titolo: test
+permalink: /making-readmes-readable/
+title: Making READMEs readable
+---
+
 ![parte1](img/parte1.png)
----
