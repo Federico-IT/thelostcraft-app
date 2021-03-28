@@ -1,5 +1,5 @@
 # dettagli app
-## versione: v 1.0.3
+## versione: v 1.0.4-dev
 ## nome applicazione: TheLostCraft-App
 # Contributori:
 ## costantino03: idea e codice
