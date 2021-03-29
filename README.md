@@ -1,9 +1,10 @@
 # dettagli app
-## versione: v 1.0.4-dev
+## versione: v 1.0.5
 ## nome applicazione: TheLostCraft-App
 # Contributori:
-## costantino03: idea e codice
-## INFERNALIZARD: grafiche
+## costantino03: ideatore e programmatore
+## INFERNALIZARD: grafico
+## MaxFederico: collaboratore interno
 ----------------------------------------------------------------
 ![parte1](img/parte1.png)
 ----------------------------------------------------------------
