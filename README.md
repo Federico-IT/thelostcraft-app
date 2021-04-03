@@ -1,5 +1,5 @@
 # dettagli app
-## versione: v 1.0.5
+## versione: v 1.0.6
 =======
 ## nome applicazione: TheLostCraft-App
 # Contributori:

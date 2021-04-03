@@ -1,0 +1,1 @@
+# fixed the ability to resize the application
