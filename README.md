@@ -1,5 +1,5 @@
 # Dettagli app
-## Versione: 1.0.7
+## Versione: 1.0.8
 # Bug report: https://github.com/costantino03/thelostcraft-app/issues/
 # Contributori:
 | Nickname  | Ruolo |
