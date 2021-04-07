@@ -1,12 +1,12 @@
-# dettagli app
-## v: 1.0.7
-# bug report: https://github.com/costantino03/thelostcraft-app/issues/
+# Dettagli app
+## Versione: 1.0.7
+# Bug report: https://github.com/costantino03/thelostcraft-app/issues/
 # Contributori:
-| nome  | ruolo |
+| Nickname  | Ruolo |
 | ------------- | ------------- |
-| costantino03  | ideatore e programmatore  |
-| INFERNALIZARD  | grafico  |
-| MaxFederico  | collaboratore interno  |
+| costantino03  | Ideatore e Programmatore  |
+| INFERNALIZARD  | Grafico  |
+| MaxFederico  | Collaboratore interno  |
 ----------------------------------------------------------------
 ![parte1](img/parte1.png)
 ----------------------------------------------------------------
