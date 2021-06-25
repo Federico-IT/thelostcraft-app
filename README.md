@@ -6,7 +6,7 @@
 | ------------- | ------------- |
 | costantino03  | Ideatore e Programmatore  |
 | INFERNALIZARD  | Grafico  |
-| MaxFederico  | Collaboratore interno   |
+| MaxFederico  | Collaboratore interno  |
 ----------------------------------------------------------------
 ![parte1](img/parte1.png)
 ----------------------------------------------------------------
